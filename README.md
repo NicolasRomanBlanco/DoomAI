@@ -13,4 +13,4 @@ I have created 3 levels, but in the repository you are cloning, there are many m
 
 ## Logs
 
-To see the logs, you need to open a terminal (I use Git Bash) in the folder where you have the environment. Navigate to where you have the logs. In my case, it would be something like 'PythonVenv\jupyter_playground\Projects\Mario\logs'. You'll see a folder named PPO_X, where X represents the training number. Enter this folder and run the following command: 'tensorboard --logdir=.'
+To see the logs, you need to open a terminal (I use Git Bash) in the folder where you have the environment. Navigate to where you have the logs. In my case, it would be something like 'PythonVenv\jupyter_playground\Projects\Doom\logs'. You'll see a folder named PPO_X, where X represents the training number. Enter this folder and run the following command: 'tensorboard --logdir=.'
